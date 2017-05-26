@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "0FE0E1F3E959C287AF251A2580D27F8E7F1090A4",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "0FE0E1F3E959C287AF251A2580D27F8E7F1090A4" : 9223372036854775807,
+    "B7E07D11820B80B39459AD6D1654063AF1E5B4C8" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "2231D334-1CFC-46F8-A2F8-75C29780E8F7",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "0FE0E1F3E959C287AF251A2580D27F8E7F1090A4" : "EmjoSwiftApplication\/",
+    "B7E07D11820B80B39459AD6D1654063AF1E5B4C8" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Emoji",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Emoji\/Emoji.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jordanwhitestephenson\/EmjoSwiftApplication.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0FE0E1F3E959C287AF251A2580D27F8E7F1090A4"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jordanwhitestephenson\/newSwiftAp.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B7E07D11820B80B39459AD6D1654063AF1E5B4C8"
+    }
+  ]
+}
